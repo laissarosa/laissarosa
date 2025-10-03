@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @laissarosa
-- 👀 I’m interested in software development, technology, and learning new languages.
-- 🌱 I’m currently learning HTML, CSS, and improving my English skills.
-- 💞️ I’m looking to collaborate on  web development projects.
-- 📫 How to reach me via email at laissa.santos@ufv.br .
-- 😄 Pronouns: she/her.
+# 👋 Olá, eu sou a Laissa!
 
+🎓 Estudante de **Sistemas de Informação** na UFV  
+💡 Interessada em **Inteligência Artificial, Cibersegurança e Ciência de Dados**  
+✨ Apaixonada por aprender, compartilhar conhecimento e explorar tecnologia  
 
-<!---
-laissarosa/laissarosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Tecnologias
+- **Linguagens:** Python, C  
+- **Ferramentas:** Git, VS Code, Google Colab  
+
+## 🌐 Onde me encontrar
+🔗 [LinkedIn](https://linkedin.com/in/laissa-rosa)  
+
+⭐ “Sempre aprendendo e construindo algo novo.”
+
