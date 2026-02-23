@@ -2,8 +2,8 @@ name: Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # roda todos os dias à meia-noite UTC
-  workflow_dispatch:      # permite rodar manualmente
+    - cron: '0 0 * * *'  # roda todo dia à meia-noite UTC
+  workflow_dispatch:      
 
 jobs:
   build:
@@ -19,10 +19,10 @@ jobs:
 
       - name: Install pacman
         run: npm install -g github-pacman-contributions
-    
+
       - name: Generate Pac-Man SVG (light)
         run: npx github-pacman-contributions --output output/pacman-contribution-graph.svg --theme light
-    
+
       - name: Generate Pac-Man SVG (dark)
         run: npx github-pacman-contributions --output output/pacman-contribution-graph-dark.svg --theme dark
 
