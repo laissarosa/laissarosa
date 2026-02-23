@@ -41,7 +41,7 @@
   </a>
 
   <a href="https://discord.com/users/laissa_rosa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord%20laissa_rosa&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 
 </div>
@@ -49,8 +49,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laissarosa&locale=en&layout=compact&card_width=320&theme=dracula" height="150" />
+  <!-- Gráfico de linguagens atualizado -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laissarosa&layout=compact&theme=dracula" height="150" />
+
+  <!-- Gráfico de streak -->
   <img src="https://streak-stats.demolab.com?user=laissarosa&locale=en&mode=daily&theme=dracula" height="150" />
+
+  <!-- Troféus -->
   <img src="https://github-profile-trophy.vercel.app?username=laissarosa&theme=dracula&margin-w=8&margin-h=8" height="150" />
 </div>
 
