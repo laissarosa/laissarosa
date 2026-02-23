@@ -67,7 +67,7 @@
 <div align="center">
   <h1>About Me</h1>
   <p>
-    ✨ Hey there, I'm Laissa! 
+    ✨ I'm Laissa! <br>
     🎓 I'm an Information Systems student, currently in my 5th semester at the Federal University of Viçosa.<br>
     💻 Passionate about software development and always excited to turn ideas into code!<br>
     🚀 Constantly learning, building, and exploring new technologies to grow as a developer.
