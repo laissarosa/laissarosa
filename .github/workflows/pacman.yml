@@ -3,7 +3,7 @@ name: Pac-Man Contribution Graph
 on:
   schedule:
     - cron: '0 0 * * *'  # roda todo dia à meia-noite UTC
-  workflow_dispatch:      
+  workflow_dispatch:      # permite rodar manualmente
 
 jobs:
   build:
@@ -12,19 +12,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-
-      - name: Install pacman
-        run: npm install -g github-pacman-contributions
-
       - name: Generate Pac-Man SVG (light)
-        run: npx github-pacman-contributions --output output/pacman-contribution-graph.svg --theme light
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          username: laissarosa
+          theme: light
+          output: output/pacman-contribution-graph.svg
 
       - name: Generate Pac-Man SVG (dark)
-        run: npx github-pacman-contributions --output output/pacman-contribution-graph-dark.svg --theme dark
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          username: laissarosa
+          theme: dark
+          output: output/pacman-contribution-graph-dark.svg
 
       - name: Commit & Push
         run: |
