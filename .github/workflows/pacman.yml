@@ -17,14 +17,14 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install pacman-contributions
-        run: npm install @laissarosa/pacman-contributions --save-dev
-
+      - name: Install pacman
+        run: npm install -g github-pacman-contributions
+    
       - name: Generate Pac-Man SVG (light)
-        run: npx pacman-contributions --output output/pacman-contribution-graph.svg --theme light
-
+        run: npx github-pacman-contributions --output output/pacman-contribution-graph.svg --theme light
+    
       - name: Generate Pac-Man SVG (dark)
-        run: npx pacman-contributions --output output/pacman-contribution-graph-dark.svg --theme dark
+        run: npx github-pacman-contributions --output output/pacman-contribution-graph-dark.svg --theme dark
 
       - name: Commit & Push
         run: |
