@@ -44,6 +44,10 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 
+  <a href="laissarosa88@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+
 </div>
 
 ###
@@ -60,7 +64,12 @@
 </div>
 
 ###
-
-<picture>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laissarosa/laissarosa/main/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <h1>About Me</h1>
+  <p>
+    ✨ Hey there, I'm Laissa! 
+    🎓 I'm an Information Systems student, currently in my 5th semester at the Federal University of Viçosa.<br>
+    💻 Passionate about software development and always excited to turn ideas into code!<br>
+    🚀 Constantly learning, building, and exploring new technologies to grow as a developer.
+  </p>
+</div>
