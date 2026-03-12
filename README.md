@@ -52,9 +52,6 @@
   <!-- Gráfico de linguagens atualizado -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laissarosa&layout=compact&theme=dracula" height="150" />
 
-  <!-- Gráfico de streak -->
- <!-- <img src="https://streak-stats.demolab.com?user=laissarosa&locale=en&mode=daily&theme=dracula" height="150" /> -->
-
   <!-- Troféus -->
   <img src="https://github-profile-trophy.vercel.app?username=laissarosa&theme=dracula&margin-w=8&margin-h=8" height="150" />
 </div>
