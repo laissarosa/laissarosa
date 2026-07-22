@@ -49,11 +49,7 @@
 ###
 
 <div align="center">
-  <!-- Gráfico de linguagens atualizado -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laissarosa&layout=compact&theme=dracula" height="150" />
 
-  <!-- Troféus -->
-  <img src="https://github-profile-trophy.vercel.app?username=laissarosa&theme=dracula&margin-w=8&margin-h=8" height="150" />
 </div>
 
 ###
@@ -61,7 +57,7 @@
   <h1>About Me</h1>
   <p>
     ✨ I'm Laissa! <br>
-    🎓 I'm an Information Systems student, currently in my 5th semester at the Federal University of Viçosa.<br>
+    🎓 I'm an Information Systems student, currently in my 6th semester at the Federal University of Viçosa.<br>
     💻 Passionate about software development and always excited to turn ideas into code!<br>
     🚀 Constantly learning, building, and exploring new technologies to grow as a developer.
   </p>
