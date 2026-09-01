@@ -3,7 +3,7 @@
 <h3 align="center">Transformando dados em decisões</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Data+%26+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Transformando+dados+em+insights;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Data+%26+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Airflow;Transformando+dados+em+insights;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -75,11 +75,6 @@
 <br>
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=laissarosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laissarosa&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laissarosa&theme=tokyonight&hide_border=true" alt="streak stats" />
