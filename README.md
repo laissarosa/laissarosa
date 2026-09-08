@@ -3,7 +3,7 @@
 <h3 align="center">Transformando dados em decisões</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Data+%26+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Airflow;Transformando+dados+em+insights;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Data+%26+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Airflow+Docker+%7C;Transformando+dados+em+insights;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/laissa.tech/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="instagram logo" />
   </a>
-  <a href="mailto:laissarosa88@gmail.com" target="_blank">
+  <a href="mailto:laissa.tech@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="email logo" />
   </a>
 </div>
@@ -30,7 +30,7 @@
 
 <br>
 
-## 🛠️ Stack & Ferramentas
+## Stack & Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python" title="Python"/>
@@ -74,7 +74,7 @@
 
 <br>
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laissarosa&theme=tokyonight&hide_border=true" alt="streak stats" />
@@ -83,5 +83,5 @@
 <br>
 
 <p align="center">
-  <i>💡 "Dados sem análise são só números. Com análise, viram decisões."</i>
+  <i> "Dados sem análise são só números. Com análise, viram decisões."</i>
 </p>
