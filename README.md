@@ -23,10 +23,8 @@
 ## 💫 Sobre mim
 
 -  Estudante de Sistemas de Informação, 6º período na **Universidade Federal de Viçosa**
--  Apaixonada por **dados**: análise, visualização e transformação de números em decisões
--  Trabalho com **Python, SQL, ferramentas de BI, Airflow, Docker** no dia a dia
--  Sempre explorando novas tecnologias e projetos para crescer como profissional de dados
--  Em constante aprendizado sobre o mundo dos dados 
+-  Interessada por **dados**: análise, visualização e transformação de números em decisões
+-  Sempre explorando novas tecnologias e conhecendo algo novo :)
 
 <br>
 
