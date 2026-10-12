@@ -3,7 +3,7 @@
 <h3 align="center">Transformando dados em decisões</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Data+%26+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Airflow+Docker+%7C;Transformando+dados+em+insights;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Data+%26+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Airflow+%7C+Docker+%7C;Transformando+dados+em+insights;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -55,7 +55,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" title="Amazon Web Services"/>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="50" alt="Databricks" title="Databricks"/>
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="50" alt="Databricks" title="Databricks"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub"/>
